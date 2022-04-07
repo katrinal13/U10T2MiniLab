@@ -9,36 +9,32 @@ public class SortTester
     System.out.println("----------- EXPERIMENT A: confirming all three sorts -----------");
     confirmSorts(); // see code below
 */
-
+/*
     // EXPERIMENT B
     System.out.println("\n----------- EXPERIMENT B: printing details for array size of 8 -----------");
     int[] arr2 = {78, 14, 18, -3, -17, 10, 30, 9};
     System.out.println("Merge Sort an array with " + arr2.length + " elements\n");
     Sort.mergeSortPrintDetails(arr2);
-
 /*
+
     // EXPERIMENT C
     System.out.println("\n----------- EXPERIMENT C: printing details for array size of 5 -----------");
     int[] arr3 = {10, 56, 34, 1, 0};
     System.out.println("Merge Sort an array with " + arr3.length + " elements\n");
     Sort.mergeSortPrintDetails(arr3);
-*/
-/* 
+
     // EXPERIMENT D
     System.out.println("\n----------- EXPERIMENT D: printing details for array size of 12 -----------");
     int[] arr4 = {6, 10, 8, 1, 3, 9, 18, 0, 20, 13, 2, 4};
     System.out.println("Merge Sort an array with " + arr4.length + " elements\n");
     Sort.mergeSortPrintDetails(arr4);
-*/
-/*
+
     // EXPERIMENT E
     System.out.println("----------- EXPERIMENT E: printing details for array size of 40 -----------");
     int[] arr5 = {3, -23, 86, -20, 24, 40, -89, 19, -4, 100, 89, 75, 13, 54, 12, 77, -5, 0, 6, 18, 47, -54, 10, 14, 78, -39, 90, 110, 61, -52, 67, 69, 41, 72, 49, -100, 104, 1, 17, -19};    
     System.out.println("Merge Sort an array with " + arr5.length + " elements\n");
     Sort.mergeSortPrintDetails(arr5);
-*/
 
-/*
     // EXPERIMENT F
     compareSorts();
 */
